@@ -1,4 +1,4 @@
-### Hi there 👋 This is  Arman. Welcome to my corner of the coding universe!
+### Hi there. This is  Arman. Welcome to my corner of the coding universe!
 <img align="center" width="280em"  src="https://github-readme-stats.vercel.app/api?username=nurhossainarman&show_icons=true&theme=radical&hide_border=true&count_private=false"/><img align="center" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurhossainarman&layout=compact&theme=radical&hide_border=true&count_private=false"/><img align="center" width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=nurhossainarman&theme=radical&hide_border=true&count_private=false"/>
 - 😄 Pronouns: he/him
 - 📫 How to reach me: nh.arman30@gmail.com
